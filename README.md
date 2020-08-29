@@ -2,3 +2,6 @@
 1.- Descarga el archivo lifestore-file.py del repositorio en tu carpeta local de tu proyecto. <br>
 2.- Cambia el nombre del archivo principal al nombre especificado en la sección de entregables de la descripción del proyecto. <br>
 3.- ¡Empieza a desarrollar tu código!.
+
+[![Run on Repl.it](https://repl.it/badge/github/emtechinstitute/proyecto1)](https://repl.it/github/emtechinstitute/proyecto1)
+
